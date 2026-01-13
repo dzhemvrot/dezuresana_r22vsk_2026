@@ -1,4 +1,4 @@
-# Random Floor Monitor Scheduler
+# Floor Monitor Scheduler
 
 A simple, user-friendly Python desktop application to randomly assign people as floor monitors over multiple days and floors — perfect for dorms, offices, hostels, student residences, camps, or any multi-floor shared living/working space.
 
